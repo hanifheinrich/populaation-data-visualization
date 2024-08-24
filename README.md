@@ -9,8 +9,8 @@ Dasbor Nagari Tanjung Balik dibangun untuk mendukung program digitalisasi desa d
 
   
 ## Dataset
-Dataset penduduk nagari tanjung balik diambil dari Kartu Keluarga penduduk yang merupakan bagain dari program kerja pendataan statistik nagari tanjung balik
-Dataset PHBS Pilot Project didapatkan dari youtube PKK Tanjung Balik: https://www.youtube.com/watch?v=CXfe1t_8EzY
+- Dataset penduduk nagari tanjung balik diambil dari Kartu Keluarga penduduk yang merupakan bagain dari program kerja pendataan statistik nagari tanjung balik
+- Dataset PHBS Pilot Project didapatkan dari youtube PKK Tanjung Balik: https://www.youtube.com/watch?v=CXfe1t_8EzY
 
 ## Data Visualization
 ```python
